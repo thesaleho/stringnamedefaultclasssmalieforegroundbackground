@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="🇮🇩 CH 01 : MADIUN PLAT AE (M.P.A)" ca="0" continent_code="ID" country="Bukit gambir" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="vps global radio" url="http://mb.puma-network.net" token=""/>
+<server name="🇮🇩 CH 01 : MADIUN PLAT AE (M.P.A)" ca="0" continent_code="ID" country="Bukit gambir" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="vps global radio" url="http://mb.puma-network.net" token=""/>
 <server name="🇮🇩 CH 02 : ROOM KARAOKE (V.P.S)" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="164.132.3.62" port="46245" region="vps regional" url="http://mb.puma-network.net" token=""/>
 <server name="🇮🇩 CH 03 : ROOM SERVICE (V.P.S)" ca="0" continent_code="ID" country="Jawa tengah" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="vps regional" url="http://mb.puma-network.net" token=""/>
 <server name="CH 04." ca="0" continent_code="ID" country="Jawa barat" country_code="ID" ip="164.132.3.62" port="0" region="vps regional" url="http://mb.puma-network.net" token=""/>
