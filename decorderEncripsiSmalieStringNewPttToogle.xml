@@ -3,4 +3,6 @@
 <server name="CH 01 : LOKAL JATIM " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46245" region="Madiun Plat Ae" url="http://mb.puma-network.net" token=""/>
 <server name="CH 02 : M.P.A " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mumble-de.cleanvoice.com" port="39891" region="Madiun Plat Ae" url="http://mb.puma-network.net" token=""/>
 <server name="CH 03 : PRIBADI " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46553" region="Vps Managemen" url="http://mb.puma-network.net" token=""/>
+<server name="CH 04 : POS RONDA " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46560" region="Vps Administrator" url="http://mb.puma-network.net" token="72"/>
 </servers>
+
