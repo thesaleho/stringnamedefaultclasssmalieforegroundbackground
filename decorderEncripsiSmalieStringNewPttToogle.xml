@@ -1,8 +1,10 @@
-<?xml version='1.0' standalone='yes'?>
+<? xml version = '1.0' standalone = 'yes'?>
 <servers>
-<server name="CH 01 : LOKAL JATIM " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46245" region="Madiun Plat Ae" url="http://mb.puma-network.net" token=""/>
-<server name="CH 02 : M.P.A " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mumble-de.cleanvoice.com" port="39891" region="Madiun Plat Ae" url="http://mb.puma-network.net" token=""/>
-<server name="CH 03 : PRIBADI " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46553" region="Vps Managemen" url="http://mb.puma-network.net" token=""/>
-<server name="CH 04 : POS RONDA " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46560" region="Vps Administrator" url="http://mb.puma-network.net" token="72"/>
+<nama server = "CH 01: POS RONDA VPS" ca = "0" benua_code = "ID" country = "Managemen" country_code = "ID" ip = "mumble-de.cleanvoice.com" port = "43077" region = "Servour Malaysia" url = "http://mb.puma-network.net" token = "" />
+<nama server = "CH 02: LOKAL BANYUWANGI" ca = "0" benua_code = "ID" country = "Vps Khusus" country_code = "ID" ip = "mb.puma-network.net" port = "46245" region = "Madiun Plat Ae" url = "http://mb.puma-network.net" token = "" />
+<nama server = "CH 03: MPA" ca = "0" benua_code = "ID" country = "Vps Khusus" country_code = "ID" ip = "mumble-de.cleanvoice.com" port = "39891" region = " Madiun Plat Ae "url =" http://mb.puma-network.net "token =" "/>
+<nama server = "CH 04: VPS JATIM" ca = "0" benua_code = "ID" negara = "Vps Khusus" country_code = "ID" ip = "mb.puma-network.net" port = "46560" region = "Vps Administrator" url = "http://mb.puma-network.net" token = "72" />
 </servers>
+
+
 
