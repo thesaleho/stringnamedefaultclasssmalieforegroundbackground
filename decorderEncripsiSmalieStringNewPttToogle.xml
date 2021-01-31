@@ -1,22 +1,12 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="CHANNEL NUSANTARA" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 001" ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 002" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 003" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 004" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 005" ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 006" ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 007" ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 008" ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 009" ca="0" continent_code="ID" country="CHANNEL 009" country_code="ID" ip="mumble-de.cleanvoice.com" port="45873" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 010" ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-
-<server name="CHANNEL 011" ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 012" ca="0" continent_code="ID" country="CHANNEL 012" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 013" ca="0" continent_code="ID" country="CHANNEL 013" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 014" ca="0" continent_code="ID" country="CHANNEL 014" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 015" ca="0" continent_code="ID" country="CHANNEL 015" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
+<server name="⭐⭐⭐⭐POS RONDA 24 JAM⭐⭐⭐⭐" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
+<server name="🇮🇩 CHANNEL 001 ( V.P.S JATIM )" ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46560" region="Vps regional" url="http://mb.puma-network.net" token=""/>
+<server name="🇮🇩 CHANNEL 002 ( M.P.A MADIUN )" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
+<server name="🇮🇩 CHANNEL 003 ( LOKAL JATENG )" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="164.132.3.62" port="46671" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
+<server name="🇮🇩 CHANNEL 004 ( MUSIK HIBURAN )" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="164.132.3.62" port="46553" region="Vps Channel" url="http://mb.puma-network.net" token="75"/>
+<server name="🇮🇩 CHANNEL 005 ( SOS )" ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
+
 
 
