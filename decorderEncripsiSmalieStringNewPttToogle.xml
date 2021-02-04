@@ -3,9 +3,10 @@
 <server name="⭐⭐⭐⭐POS RONDA 24 JAM⭐⭐⭐⭐" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
 <server name="🇮🇩 CHANNEL 001 ( V.P.S JATIM )" ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46560" region="Vps regional" url="http://mb.puma-network.net" token=""/>
 <server name="🇮🇩 CHANNEL 002 ( M.P.A MADIUN )" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="🇮🇩 CHANNEL 003 ( LOKAL JATENG )" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="164.132.3.62" port="46671" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="🇮🇩 CHANNEL 004 ( MUSIK HIBURAN )" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="164.132.3.62" port="46553" region="Vps Channel" url="http://mb.puma-network.net" token="75"/>
-<server name="🇮🇩 CHANNEL 005 ( SOS )" ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="🇮🇩 CHANNEL 003 ( R.TOPAN RWK )" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="32869" region="Vps member" url="http://mb.puma-network.net" token=""/>
+<server name="🇮🇩 CHANNEL 004 ( LOKAL JATENG )" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="164.132.3.62" port="46671" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
+<server name="🇮🇩 CHANNEL 005 ( MUSIK HIBURAN )" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="164.132.3.62" port="46553" region="Vps Channel" url="http://mb.puma-network.net" token="75"/>
+<server name="🇮🇩 CHANNEL 006 ( SOS )" ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
 
 
